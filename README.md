@@ -28,11 +28,11 @@
 ### 🎮 Game Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=tokyonight" alt="[username]'s GitHub stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[Owlkaj]&show_icons=true&theme=tokyonight" alt="[Owlkaj]'s GitHub stats" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=tokyonight" alt="GitHub Streak" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Owlkaj]&theme=tokyonight" alt="GitHub Streak" width="500"/>
 </p>
 
 ---
