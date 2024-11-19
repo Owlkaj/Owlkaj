@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm [Nama Anda]</h1>
+<h1 align="center">Hi there! 👋 I'm [Hatta Boehtiawan Saputra] </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
@@ -17,10 +17,10 @@
 
 ### ✨ About Me
 
-- 🎓 **[Pekerjaan / Posisi saat ini]** di **[Nama Perusahaan / Institusi]**
-- 📚 **Skill**: [Skill utama Anda, contoh: Python, JavaScript, Web Development]
-- 🚀 **Hobi**: [Contoh: Coding, Membaca, Musik]
-- 🌱 **Saat ini Belajar**: [Topik yang sedang dipelajari, contoh: Machine Learning, DevOps]
+- 🎓 **[MAHASISWA IT]** di **[UNIB 24]**
+- 📚 **Skill**: [Belum Ada]
+- 🚀 **Hobi**: [Membaca, Musik]
+- 🌱 **Saat ini Belajar**: [Dasar IT]
 
 ---
 
