@@ -1,6 +1,6 @@
 # ✨ Welcome to My GitHub Profile  
 
-![Game Development GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![Game Development GIF](https://giphy.com/gifs/WiredP-roger-arcade-paradise-machine-WlM0hyvi6vUm5zBiuU)
 
 ---
 
