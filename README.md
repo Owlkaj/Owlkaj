@@ -1,8 +1,8 @@
 # ✨ Welcome to My GitHub Profile  
 
-<p align="center">
+
 ![Game Development GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanAweTk3cW85aHBuOXp1YnhrMGUwcmY4dDE4NHV3eGp2ZTQyY293aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WlM0hyvi6vUm5zBiuU/giphy.gif)
-</p>
+
 
 ---
 
