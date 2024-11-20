@@ -1,10 +1,9 @@
 # ✨ Welcome to My GitHub Profile  
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanAweTk3cW85aHBuOXp1YnhrMGUwcmY4dDE4NHV3eGp2ZTQyY293aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WlM0hyvi6vUm5zBiuU/giphy.gif/>
-    
-</div>
-    
+<p align="center">
+![Game Development GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanAweTk3cW85aHBuOXp1YnhrMGUwcmY4dDE4NHV3eGp2ZTQyY293aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WlM0hyvi6vUm5zBiuU/giphy.gif)
+</p>
+
 ---
 
 ## 👨‍💻 About Me  
@@ -25,15 +24,15 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Owlkaj&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HattaBoehtiawanSaputra&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Owlkaj&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HattaBoehtiawanSaputra&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owlkaj&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HattaBoehtiawanSaputra&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -41,10 +40,10 @@
 ## 🛠️ Tools & Technologies  
 | Category       | Tools                                      |
 |----------------|--------------------------------------------|
-| **Languages**  | -                     |
-| **Game Engines** | -)                   |
+| **Languages**  | Python, C++, HTML/CSS                     |
+| **Game Engines** | Unity (Beginner Level)                   |
 | **Version Control** | Git, GitHub                            |
-| **Design Tools** | -                         |
+| **Design Tools** | Figma, Photoshop                         |
 
 ---
 
