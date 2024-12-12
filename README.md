@@ -49,9 +49,9 @@
 
 ## 🌐 Let's Connect!  
 
-💌 **Email**: [your-email@example.com](mailto:your-email@example.com)  
-🔗 **LinkedIn**: [Hatta Boehtiawan Saputra](https://linkedin.com/in/YourLinkedInHandle)  
-🐦 **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
+💌 **Email**: [flimowlkaj@gmail.coom](flimowlkaj@gmail.com)  
+🔗 **LinkedIn**: - 
+
 
 ---
 
